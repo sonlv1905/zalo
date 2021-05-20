@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">zalo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fMessage">Hello Message fragment</string>
+    <string name="fContact">Hello Contact fragment</string>
+    <string name="fTimeline">Hello Timeline fragment</string>
+    <string name="fMore">Hello More fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

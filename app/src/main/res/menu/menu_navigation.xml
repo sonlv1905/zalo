@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mMessage"
+        android:title="Messages"
+        android:icon="@drawable/ic_message"
+        />
+    <item
+        android:id="@+id/mContact"
+        android:title="Contact"
+        android:icon="@drawable/ic_contact"
+        />
+    <item
+        android:id="@+id/mTimeline"
+        android:title="Timeline"
+        android:icon="@drawable/ic_time"
+        />
+    <item
+        android:id="@+id/mMore"
+        android:title="More"
+        android:icon="@drawable/ic_more"
+        />
+
+</menu>
